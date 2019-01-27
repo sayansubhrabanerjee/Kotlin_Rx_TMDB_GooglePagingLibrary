@@ -1,4 +1,4 @@
-# Kotlin_Rx_TMDB_GooglePagingLibrary
+# Kotlin_Rx_TMDB_GooglePagingLibrary_Retrofit
 Kotlin, Google Paging Library, RxJava
 Created a project to help display list of movies.
 Used "The Movie Database" website you achieve this.
